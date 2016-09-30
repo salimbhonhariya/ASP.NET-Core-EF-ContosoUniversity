@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A6A31537-1E0A-4E63-904D-49554A1BE84F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{18538E01-5C65-4A4E-9358-0C2EC6769115}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "SalimContosoUniversity", "src\SalimContosoUniversity\SalimContosoUniversity.xproj", "{BEF3DC4B-6B08-4CAE-A53B-B65E1D96099A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEF3DC4B-6B08-4CAE-A53B-B65E1D96099A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF3DC4B-6B08-4CAE-A53B-B65E1D96099A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF3DC4B-6B08-4CAE-A53B-B65E1D96099A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF3DC4B-6B08-4CAE-A53B-B65E1D96099A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BEF3DC4B-6B08-4CAE-A53B-B65E1D96099A} = {A6A31537-1E0A-4E63-904D-49554A1BE84F}
+	EndGlobalSection
+EndGlobal
